@@ -64,7 +64,7 @@ Vous devez :
 * Utiliser des APIs Java modernes si possible
 * Éviter les frameworks lourds comme Spring
 * Faire attention aux pièges dans le code
-* Ne perdez pas de temps à implémenter des codes ISBN. Ils sont fictifs et ne servent qu'à identifier les livres.
+* Ne perdez pas de temps à implémenter deuxx	es codes ISBN. Ils sont fictifs et ne servent qu'à identifier les livres.
 * Vous amusez :)
 
 
